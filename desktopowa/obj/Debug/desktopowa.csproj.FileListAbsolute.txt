@@ -1,0 +1,10 @@
+C:\Users\user\Desktop\EgzaminyProbne\desktopowa\bin\Debug\desktopowa.exe.config
+C:\Users\user\Desktop\EgzaminyProbne\desktopowa\bin\Debug\desktopowa.exe
+C:\Users\user\Desktop\EgzaminyProbne\desktopowa\bin\Debug\desktopowa.pdb
+C:\Users\user\Desktop\EgzaminyProbne\desktopowa\obj\Debug\desktopowa.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\EgzaminyProbne\desktopowa\obj\Debug\desktopowa.Properties.Resources.resources
+C:\Users\user\Desktop\EgzaminyProbne\desktopowa\obj\Debug\desktopowa.csproj.GenerateResource.cache
+C:\Users\user\Desktop\EgzaminyProbne\desktopowa\obj\Debug\desktopowa.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\EgzaminyProbne\desktopowa\obj\Debug\desktopowa.exe
+C:\Users\user\Desktop\EgzaminyProbne\desktopowa\obj\Debug\desktopowa.pdb
+C:\Users\user\Desktop\EgzaminyProbne\desktopowa\obj\Debug\desktopowa.Form1.resources
